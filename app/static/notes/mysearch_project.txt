@@ -1,0 +1,10 @@
+1.for form divide  - https://www.youtube.com/watch?v=OPc_oMgjhpM
+2.for search       - https://www.youtube.com/watch?v=iFlSrEuyl8I
+3.for pagination   - https://www.youtube.com/watch?v=CV_t_dHFXzc
+4.for filters      - https://youtu.be/G-Rct7Na0UQ
+
+5.local variable 'context' referenced before assignment - https://www.youtube.com/watch?v=rWFZymiK89c
+
+6.requirnment.txt  - https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt
+
+7.heroku deploy    - https://www.youtube.com/watch?v=kBwhtEIXGII
